@@ -1,4 +1,4 @@
 # python-calculator
 Simple calculator project in Python
-</b>
+<b>
 author-soumitra sahoo
